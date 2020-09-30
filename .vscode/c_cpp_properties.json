@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\luisb\\AppData\\Local\\Arduino15\\packages\\Infineon\\tools\\**",
+                "C:\\Users\\luisb\\AppData\\Local\\Arduino15\\packages\\Infineon\\hardware\\arm\\1.5.0\\**",
+                "C:\\Users\\luisb\\OneDrive\\Documents\\Arduino\\libraries\\Arduino-LiquidCrystal-I2C-library-master",
+                "C:\\Users\\luisb\\OneDrive\\Documents\\Arduino\\libraries\\DHT_sensor_library"
+            ],
+            "forcedInclude": [
+                "C:\\Users\\luisb\\AppData\\Local\\Arduino15\\packages\\Infineon\\hardware\\arm\\1.5.0\\cores\\Arduino.h"
+            ],
+            "compilerPath": "C:\\Mingw-w64\\x86_64-8.1.0-posix-seh-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-x64"
+        }
+    ],
+    "version": 4
+}
